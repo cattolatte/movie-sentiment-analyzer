@@ -41,10 +41,13 @@ This project is a complete end-to-end application that performs sentiment analys
 * Python 3.11  
 * A running MySQL server instance
 
-### **1\. Clone the Repository**
+### 1. Clone the Repository
 
+```bash
 git clone https://github.com/coderstale/movie-sentiment-analyzer.git
 cd java-movie-sentiment-analyzer
+```
+
 
 ### **2\. Set up the Python Environment (for re-training)**
 
