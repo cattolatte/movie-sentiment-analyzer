@@ -82,7 +82,7 @@ python3 export\_onnx.py
 
 ### **4\. Build and Run the Java Application**
 
-From the project's root directory (java-movie-sentiment-analyzer/):
+From the project's root directory (movie-sentiment-analyzer/):
 
 1. Build the project:  
    This command will download all the required Java libraries.  
