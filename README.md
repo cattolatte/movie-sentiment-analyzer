@@ -43,7 +43,7 @@ This project is a complete end-to-end application that performs sentiment analys
 
 ### **1\. Clone the Repository**
 
-git clone [https://github.com/coderstale/movie-sentiment-analyzer.git\](https://github.com/coderstale/movie-sentiment-analyzer.git)  
+git clone https://github.com/coderstale/movie-sentiment-analyzer.git
 cd java-movie-sentiment-analyzer
 
 ### **2\. Set up the Python Environment (for re-training)**
