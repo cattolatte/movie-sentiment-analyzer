@@ -1,0 +1,17 @@
+target/
+*.class
+*.jar
+*.war
+
+dependency-reduced-pom.xml
+
+myenv/
+*.pyc
+__pycache__/
+
+.idea/
+.vscode/
+*.iml
+.DS_Store
+
+*.log
