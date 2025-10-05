@@ -91,4 +91,4 @@ From the project's root directory (movie-sentiment-analyzer/):
 2. **Run the application:**  
    mvn exec:java
 
-The interactive menu will appear in your terminal, and you can start analyzing movie reviews\!
+The interactive menu will appear in your terminal, and you can start analyzing movie reviews\!!
